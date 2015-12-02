@@ -1,0 +1,3 @@
+#astros-webcom-refer
+
+分析页面引用的Web组件，并将依赖的模块列表挂载在在asset的comments属性上
