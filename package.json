@@ -1,10 +1,10 @@
 {
   "name": "astros-webcom-refer",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "",
   "main": "astros-webcom-refer.js",
   "dependencies": {
-    "lang-utils":"^0.0.2"
+    "lang-utils":"~1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
